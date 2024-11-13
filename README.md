@@ -1,2 +1,2 @@
-# pyfsync
+# WIP pyfsync
 Python folder sync
